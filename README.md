@@ -1,58 +1,21 @@
-Automated access to World Bank data and conversion to data packages.
+Python script for automated access to world-bank website and retreiving datasets with datapackages.
 
-## World Development Indicators
+## Data
+World bank is a global partnership that provides loans to countries for capital projects. It tracks global development indicators and allows free and open access to its data. There are indicators from a variety of fields such as agriculture, economy, climate change etc.
 
-World Bank World Development Indicators like: https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS
+## Usage
 
-We have a script to automate access and data extraction for these.
+The scripts are python based and use python 3.5+. The script `get.py` has no dependencies outside of the standard library. It is used to download and extract a specific indicator. Credit goes to [rufuspolock](https://github.com/rufuspollock/world-bank-data). In order to obtain dataset with a specific indicator url run:
+`python scripts/get.py indicator_url`
 
-1. Downloading the metadata data
-2. Extracting metadata and data
-3. Converting to a [Data Package][]
-
-[Data Package]: https://frictionlessdata.io/data-packages
-
-The script is python based and uses python 3.0. It has no dependencies outside of the standard library. Try it:
-
+Example:
 ```
-python scripts/get.py
-
-# download and extract this indicator
 python scripts/get.py https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS
+# This will download Central government total debt as percentage of GDP dataset
 ```
 
+The script `extractFeaturedWorldBankDatasets.py` obtains datasets from the world-bank featured page https://data.worldbank.org/indicator?tab=featured. It uses library BeautifulSoup in order to scrape indicator urls. To install BeautifulSoup run:
+`pip install bs4`
 
-## Research: The World Bank data API
-
-You can get data in CSV, JSON and XML (default).
-
-Per indicator:
-
-```bash
-https://api.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?format=csv
-
-# for some reason json format just yields metadata
-https://api.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS?format=json
-```
-
-More elaborate queries via http://blogs.worldbank.org/opendata/first-steps-in-integrating-open-data:
-
-```
-http://api.worldbank.org/en/countries/KE;XF;XM/indicators/EN.ATM.CO2E.PC?date=1961:2011&format=csv
-
-
-http://api.worldbank.org/en/countries/KE;XF;XM/indicators/EN.ATM.CO2E.PC?date=1961:2011&format=json
-```
-
-## Motivation: User Stories
-
-As a Data Wrangler I want to convert a world bank indicator into a tabular data package automatically.
-
-* And keep it up to date ...
-
-As a Data Wrangler I want to get existing world bank indicator as if it were a data package 
-
-* use data get
-* use data info (?)
-* use data cat
-
+To obtain all featured indicators run:
+`python scripts/extractFeaturedWorldBankDatasets.py`
