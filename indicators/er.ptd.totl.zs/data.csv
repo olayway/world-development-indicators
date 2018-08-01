@@ -1,0 +1,1023 @@
+Country Name,Country Code,Year,Value
+Arab World,ARB,1990,2.52808748951326
+Arab World,ARB,2000,6.26758390958141
+Arab World,ARB,2014,8.10904203925424
+Arab World,ARB,2016,4.2780498611588
+Caribbean small states,CSS,1990,1.64598703418469
+Caribbean small states,CSS,2000,4.84270052185108
+Caribbean small states,CSS,2014,6.9055327708683
+Caribbean small states,CSS,2016,7.00660560709177
+Central Europe and the Baltics,CEB,1990,6.24289401083268
+Central Europe and the Baltics,CEB,2000,10.7188211990671
+Central Europe and the Baltics,CEB,2014,25.5751210930582
+Central Europe and the Baltics,CEB,2016,27.885937075994
+Early-demographic dividend,EAR,1990,5.09616946179703
+Early-demographic dividend,EAR,2000,8.26801673343229
+Early-demographic dividend,EAR,2014,10.7145180042442
+Early-demographic dividend,EAR,2016,9.56834316284939
+East Asia & Pacific,EAS,1990,7.81998627467039
+East Asia & Pacific,EAS,2000,10.1409363236949
+East Asia & Pacific,EAS,2014,17.9512068839761
+East Asia & Pacific,EAS,2016,17.8983222341188
+East Asia & Pacific (excluding high income),EAP,1990,8.55652372763011
+East Asia & Pacific (excluding high income),EAP,2000,11.1914234388734
+East Asia & Pacific (excluding high income),EAP,2014,12.8643472058095
+East Asia & Pacific (excluding high income),EAP,2016,13.0062195140033
+East Asia & Pacific (IDA & IBRD countries),TEA,1990,8.61154014824539
+East Asia & Pacific (IDA & IBRD countries),TEA,2000,11.2653053177958
+East Asia & Pacific (IDA & IBRD countries),TEA,2014,12.9503531579512
+East Asia & Pacific (IDA & IBRD countries),TEA,2016,13.0959311885641
+Euro area,EMU,1990,6.40497103032954
+Euro area,EMU,2000,12.7829454406328
+Euro area,EMU,2014,19.3264274685653
+Euro area,EMU,2016,20.6597609723674
+Europe & Central Asia,ECS,1990,4.00640884307432
+Europe & Central Asia,ECS,2000,7.9664762412417
+Europe & Central Asia,ECS,2014,9.61800959856633
+Europe & Central Asia,ECS,2016,9.1425862175496
+Europe & Central Asia (excluding high income),ECA,1990,3.26869725781207
+Europe & Central Asia (excluding high income),ECA,2000,6.97984034783995
+Europe & Central Asia (excluding high income),ECA,2014,7.82287491212883
+Europe & Central Asia (excluding high income),ECA,2016,6.9571229096252
+Europe & Central Asia (IDA & IBRD countries),TEC,1990,3.3585455567252
+Europe & Central Asia (IDA & IBRD countries),TEC,2000,7.11832634847919
+Europe & Central Asia (IDA & IBRD countries),TEC,2014,8.10466125403459
+Europe & Central Asia (IDA & IBRD countries),TEC,2016,7.36471241562989
+European Union,EUU,1990,6.32366425870031
+European Union,EUU,2000,11.9269073344941
+European Union,EUU,2014,19.6879972004515
+European Union,EUU,2016,21.5583460702403
+Fragile and conflict affected situations,FCS,1990,5.03815824784335
+Fragile and conflict affected situations,FCS,2000,5.20948507693822
+Fragile and conflict affected situations,FCS,2014,8.34665724829766
+Fragile and conflict affected situations,FCS,2016,8.85024473948375
+Heavily indebted poor countries (HIPC),HPC,1990,8.90254506481059
+Heavily indebted poor countries (HIPC),HPC,2000,9.69666002463254
+Heavily indebted poor countries (HIPC),HPC,2014,13.2267895719027
+Heavily indebted poor countries (HIPC),HPC,2016,14.3316469482874
+High income,HIC,1990,6.77900050507776
+High income,HIC,2000,9.76512624036638
+High income,HIC,2014,16.3648327561445
+High income,HIC,2016,18.2773229893969
+IBRD only,IBD,1990,5.33469732542463
+IBRD only,IBD,2000,8.18332630730401
+IBRD only,IBD,2014,11.1992143287507
+IBRD only,IBD,2016,11.157578595012
+IDA & IBRD total,IBT,1990,6.0204273988348
+IDA & IBRD total,IBT,2000,8.42244360214787
+IDA & IBRD total,IBT,2014,11.4863097821788
+IDA & IBRD total,IBT,2016,11.5920730776717
+IDA blend,IDB,1990,6.35738462226462
+IDA blend,IDB,2000,9.2522757733154
+IDA blend,IDB,2014,13.1118911828278
+IDA blend,IDB,2016,13.5811931310778
+IDA only,IDX,1990,8.24743262407039
+IDA only,IDX,2000,8.99472459036504
+IDA only,IDX,2014,11.9926882595732
+IDA only,IDX,2016,12.4933659561525
+IDA total,IDA,1990,7.82646084546972
+IDA total,IDA,2000,9.05210253647943
+IDA total,IDA,2014,12.2418947979259
+IDA total,IDA,2016,12.7355862353855
+Late-demographic dividend,LTE,1990,5.78600903576387
+Late-demographic dividend,LTE,2000,9.48248625918957
+Late-demographic dividend,LTE,2014,12.7382311899155
+Late-demographic dividend,LTE,2016,12.3844419527243
+Latin America & Caribbean,LCN,1990,5.60632131096242
+Latin America & Caribbean,LCN,2000,9.63899104331171
+Latin America & Caribbean,LCN,2014,16.054699797811
+Latin America & Caribbean,LCN,2016,16.3108814069465
+Latin America & Caribbean (excluding high income),LAC,1990,5.75440374099553
+Latin America & Caribbean (excluding high income),LAC,2000,9.98000040592465
+Latin America & Caribbean (excluding high income),LAC,2014,16.566464957819
+Latin America & Caribbean (excluding high income),LAC,2016,16.5667573781427
+Latin America & the Caribbean (IDA & IBRD countries),TLA,1990,5.63561748167291
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2000,9.69461313940131
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2014,16.1333961128728
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2016,16.378853490685
+Least developed countries: UN classification,LDC,1990,8.19273590306652
+Least developed countries: UN classification,LDC,2000,8.73227031823637
+Least developed countries: UN classification,LDC,2014,11.6820348681816
+Least developed countries: UN classification,LDC,2016,12.2102901334296
+Low & middle income,LMY,1990,6.02835061436437
+Low & middle income,LMY,2000,8.43058483954794
+Low & middle income,LMY,2014,11.4636141323192
+Low & middle income,LMY,2016,11.4910024952857
+Low income,LIC,1990,9.91873461016319
+Low income,LIC,2000,10.1068526931667
+Low income,LIC,2014,13.8863307389442
+Low income,LIC,2016,14.5117094387416
+Lower middle income,LMC,1990,4.57297929156882
+Lower middle income,LMC,2000,6.66257371323769
+Lower middle income,LMC,2014,9.07560407563465
+Lower middle income,LMC,2016,9.59441657625941
+Middle East & North Africa,MEA,1990,3.47124431260359
+Middle East & North Africa,MEA,2000,8.06248262114177
+Middle East & North Africa,MEA,2014,10.0067051431943
+Middle East & North Africa,MEA,2016,5.54322929726485
+Middle East & North Africa (excluding high income),MNA,1990,2.73932237338605
+Middle East & North Africa (excluding high income),MNA,2000,3.29736521225635
+Middle East & North Africa (excluding high income),MNA,2014,5.70532133453299
+Middle East & North Africa (excluding high income),MNA,2016,6.02388549864348
+Middle East & North Africa (IDA & IBRD countries),TMN,1990,2.73932237338605
+Middle East & North Africa (IDA & IBRD countries),TMN,2000,3.29736521225635
+Middle East & North Africa (IDA & IBRD countries),TMN,2014,5.70532133453299
+Middle East & North Africa (IDA & IBRD countries),TMN,2016,6.02388549864348
+Middle income,MIC,1990,5.38530724019732
+Middle income,MIC,2000,8.15339783703964
+Middle income,MIC,2014,11.0411298974819
+Middle income,MIC,2016,10.9642378849495
+North America,NAC,1990,7.04944319334183
+North America,NAC,2000,8.18000695324149
+North America,NAC,2014,10.4968287358393
+North America,NAC,2016,16.3249113510154
+OECD members,OED,1990,6.27252422611302
+OECD members,OED,2000,8.09314449838925
+OECD members,OED,2014,14.8466328123716
+OECD members,OED,2016,18.3135928530401
+Other small states,OSS,1990,8.67293541550656
+Other small states,OSS,2000,13.3234739072756
+Other small states,OSS,2014,20.8349348136312
+Other small states,OSS,2016,20.7981412228907
+Pacific island small states,PSS,1990,0.0567544272057671
+Pacific island small states,PSS,2000,0.10552570990023
+Pacific island small states,PSS,2014,0.951788181120491
+Pacific island small states,PSS,2016,1.12474026939251
+Post-demographic dividend,PST,1990,6.67329144828392
+Post-demographic dividend,PST,2000,8.46032184665356
+Post-demographic dividend,PST,2014,15.5639590653931
+Post-demographic dividend,PST,2016,19.0633281547591
+Pre-demographic dividend,PRE,1990,8.14927085277951
+Pre-demographic dividend,PRE,2000,8.41421030663489
+Pre-demographic dividend,PRE,2014,11.7856397460436
+Pre-demographic dividend,PRE,2016,12.3831299158141
+Small states,SST,1990,7.27516808124796
+Small states,SST,2000,11.5561228048915
+Small states,SST,2014,17.9765458579709
+Small states,SST,2016,17.9684361051289
+South Asia,SAS,1990,3.42706052943086
+South Asia,SAS,2000,4.10357645722031
+South Asia,SAS,2014,4.53785948642474
+South Asia,SAS,2016,4.97871526830455
+South Asia (IDA & IBRD),TSA,1990,3.42706052943086
+South Asia (IDA & IBRD),TSA,2000,4.10357645722031
+South Asia (IDA & IBRD),TSA,2014,4.53785948642474
+South Asia (IDA & IBRD),TSA,2016,4.97871526830455
+Sub-Saharan Africa,SSF,1990,8.96889600552647
+Sub-Saharan Africa,SSF,2000,9.5150914902976
+Sub-Saharan Africa,SSF,2014,13.506454785877
+Sub-Saharan Africa,SSF,2016,14.1515059489775
+Sub-Saharan Africa (excluding high income),SSA,1990,8.96906522103919
+Sub-Saharan Africa (excluding high income),SSA,2000,9.51527105700591
+Sub-Saharan Africa (excluding high income),SSA,2014,13.50670961482
+Sub-Saharan Africa (excluding high income),SSA,2016,14.1517729675605
+Sub-Saharan Africa (IDA & IBRD countries),TSS,1990,8.96889600552647
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2000,9.5150914902976
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,13.506454785877
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,14.1515059489775
+Upper middle income,UMC,1990,5.71156884077216
+Upper middle income,UMC,2000,8.75224202624063
+Upper middle income,UMC,2014,11.8100098150164
+Upper middle income,UMC,2016,11.5000886157226
+World,WLD,1990,6.23288828997577
+World,WLD,2000,8.79507599676472
+World,WLD,2014,12.8073932143934
+World,WLD,2016,13.3529811450798
+Afghanistan,AFG,1990,0.36
+Afghanistan,AFG,2000,0.36
+Afghanistan,AFG,2014,0.46
+Afghanistan,AFG,2016,0.104707040342723
+Albania,ALB,1990,0.15
+Albania,ALB,2000,0.48
+Albania,ALB,2014,1.91
+Albania,ALB,2016,13.1477494617734
+Algeria,DZA,1990,5.97
+Algeria,DZA,2000,5.98
+Algeria,DZA,2014,7.46
+Algeria,DZA,2016,7.10549985987089
+American Samoa,ASM,1990,0.06
+American Samoa,ASM,2000,0.06
+American Samoa,ASM,2014,8.62
+American Samoa,ASM,2016,8.70852175263238
+Andorra,AND,1990,5.53
+Andorra,AND,2000,9.25
+Andorra,AND,2014,19.5
+Andorra,AND,2016,21.1909302818394
+Angola,AGO,1990,4.97
+Angola,AGO,2000,4.97
+Angola,AGO,2014,4.98
+Angola,AGO,2016,5.00471334206571
+Antigua and Barbuda,ATG,1990,0.02
+Antigua and Barbuda,ATG,2000,0.02
+Antigua and Barbuda,ATG,2014,0.15
+Antigua and Barbuda,ATG,2016,0.271690243750207
+Argentina,ARG,1990,3.25
+Argentina,ARG,2000,4.28
+Argentina,ARG,2014,5.37
+Argentina,ARG,2016,7.52859334896618
+Armenia,ARM,1990,7.91
+Armenia,ARM,2000,18.6
+Armenia,ARM,2014,24.75
+Armenia,ARM,2016,23.1090030789546
+Aruba,ABW,1990,0.48
+Aruba,ABW,2000,0.48
+Aruba,ABW,2014,0.48
+Aruba,ABW,2016,0.527983104540655
+Australia,AUS,1990,6.64
+Australia,AUS,2000,8.72
+Australia,AUS,2014,29.03
+Australia,AUS,2016,28.5918417236676
+Austria,AUT,1990,19.18
+Austria,AUT,2000,25.57
+Austria,AUT,2014,28.35
+Austria,AUT,2016,28.4439825865815
+Azerbaijan,AZE,1990,5.19
+Azerbaijan,AZE,2000,5.8
+Azerbaijan,AZE,2014,13.97
+Azerbaijan,AZE,2016,5.51874580872895
+"Bahamas, The",BHS,1990,0.22
+"Bahamas, The",BHS,2000,0.29
+"Bahamas, The",BHS,2014,0.51
+"Bahamas, The",BHS,2016,1.24025812422249
+Bahrain,BHR,1990,0.1
+Bahrain,BHR,2000,0.66
+Bahrain,BHR,2014,4.41
+Bahrain,BHR,2016,1.69477264805221
+Bangladesh,BGD,1990,0.55
+Bangladesh,BGD,2000,3.15
+Bangladesh,BGD,2014,3.41
+Bangladesh,BGD,2016,4.88867647961894
+Barbados,BRB,1990,0
+Barbados,BRB,2000,0
+Barbados,BRB,2014,0
+Barbados,BRB,2016,0.00916620431253737
+Belarus,BLR,1990,6.51
+Belarus,BLR,2000,7.18
+Belarus,BLR,2014,8.57
+Belarus,BLR,2016,9.51125836698787
+Belgium,BEL,1990,6.57
+Belgium,BEL,2000,14.58
+Belgium,BEL,2014,24.25
+Belgium,BEL,2016,24.5781622457406
+Belize,BLZ,1990,10.08
+Belize,BLZ,2000,17.82
+Belize,BLZ,2014,18.55
+Belize,BLZ,2016,20.5917919778095
+Benin,BEN,1990,18.87
+Benin,BEN,2000,19.82
+Benin,BEN,2014,22.25
+Benin,BEN,2016,28.8719449693959
+Bermuda,BMU,1990,4.86
+Bermuda,BMU,2000,5.07
+Bermuda,BMU,2014,5.07
+Bermuda,BMU,2016,0.0338708242033383
+Bhutan,BTN,1990,14.19
+Bhutan,BTN,2000,35.07
+Bhutan,BTN,2014,47.3
+Bhutan,BTN,2016,48.0073121564601
+Bolivia,BOL,1990,8.76
+Bolivia,BOL,2000,18.77
+Bolivia,BOL,2014,24.83
+Bolivia,BOL,2016,30.8655154573011
+Bosnia and Herzegovina,BIH,1990,0.03
+Bosnia and Herzegovina,BIH,2000,0.04
+Bosnia and Herzegovina,BIH,2014,1.28
+Bosnia and Herzegovina,BIH,2016,1.45241014188329
+Botswana,BWA,1990,17.9
+Botswana,BWA,2000,29.13
+Botswana,BWA,2014,29.15
+Botswana,BWA,2016,29.1432918377963
+Brazil,BRA,1990,4.73
+Brazil,BRA,2000,10.22
+Brazil,BRA,2014,20.37
+Brazil,BRA,2016,20.7372842292403
+British Virgin Islands,VGB,1990,0.06
+British Virgin Islands,VGB,2000,0.08
+British Virgin Islands,VGB,2014,0.08
+British Virgin Islands,VGB,2016,0.0743447440124602
+Brunei Darussalam,BRN,1990,24.94
+Brunei Darussalam,BRN,2000,29.68
+Brunei Darussalam,BRN,2014,29.68
+Brunei Darussalam,BRN,2016,8.98923250400346
+Bulgaria,BGR,1990,1.52
+Bulgaria,BGR,2000,3.32
+Bulgaria,BGR,2014,31.46
+Bulgaria,BGR,2016,28.2871319536603
+Burkina Faso,BFA,1990,13.96
+Burkina Faso,BFA,2000,14.13
+Burkina Faso,BFA,2014,15.47
+Burkina Faso,BFA,2016,15.084819776291
+Burundi,BDI,1990,3.84
+Burundi,BDI,2000,4.85
+Burundi,BDI,2014,6.89
+Burundi,BDI,2016,7.59254563428626
+Cabo Verde,CPV,1990,0.01
+Cabo Verde,CPV,2000,0.01
+Cabo Verde,CPV,2014,0.01
+Cabo Verde,CPV,2016,2.60303687635575
+Cambodia,KHM,1990,0.02
+Cambodia,KHM,2000,18.32
+Cambodia,KHM,2014,20.61
+Cambodia,KHM,2016,20.6492772839727
+Cameroon,CMR,1990,5.71
+Cameroon,CMR,2000,7.42
+Cameroon,CMR,2014,10.65
+Cameroon,CMR,2016,10.3820772995156
+Canada,CAN,1990,3.77
+Canada,CAN,2000,4.63
+Canada,CAN,2014,6.24
+Canada,CAN,2016,6.47711948156826
+Cayman Islands,CYM,1990,1.3
+Cayman Islands,CYM,2000,1.37
+Cayman Islands,CYM,2014,1.54
+Cayman Islands,CYM,2016,0.103424001708164
+Central African Republic,CAF,1990,17.65
+Central African Republic,CAF,2000,17.9
+Central African Republic,CAF,2014,18.09
+Central African Republic,CAF,2016,18.0648063941797
+Chad,TCD,1990,11.68
+Chad,TCD,2000,11.68
+Chad,TCD,2014,17.78
+Chad,TCD,2016,20.3544453722663
+Chile,CHL,1990,3
+Chile,CHL,2000,3.17
+Chile,CHL,2014,6.85
+Chile,CHL,2016,13.5939050071834
+China,CHN,1990,12.38
+China,CHN,2000,14.18
+China,CHN,2014,15.61
+China,CHN,2016,15.9392803086493
+Colombia,COL,1990,11.58
+Colombia,COL,2000,12.34
+Colombia,COL,2014,17.37
+Colombia,COL,2016,9.44644364805646
+Comoros,COM,1990,0
+Comoros,COM,2000,0.01
+Comoros,COM,2014,2.38
+Comoros,COM,2016,0.126191492899187
+"Congo, Dem. Rep.",COD,1990,10.11
+"Congo, Dem. Rep.",COD,2000,10.18
+"Congo, Dem. Rep.",COD,2014,12.07
+"Congo, Dem. Rep.",COD,2016,12.6343110542534
+"Congo, Rep.",COG,1990,1.51
+"Congo, Rep.",COG,2000,4.99
+"Congo, Rep.",COG,2014,31.81
+"Congo, Rep.",COG,2016,36.7093039291158
+Costa Rica,CRI,1990,2.23
+Costa Rica,CRI,2000,2.8
+Costa Rica,CRI,2014,3.05
+Costa Rica,CRI,2016,3.03546193741007
+Cote d'Ivoire,CIV,1990,14.7
+Cote d'Ivoire,CIV,2000,14.74
+Cote d'Ivoire,CIV,2014,14.93
+Cote d'Ivoire,CIV,2016,14.8914750759545
+Croatia,HRV,1990,4.32
+Croatia,HRV,2000,5.56
+Croatia,HRV,2014,23.69
+Croatia,HRV,2016,23.5064099082696
+Cuba,CUB,1990,1.36
+Cuba,CUB,2000,1.44
+Cuba,CUB,2014,5.03
+Cuba,CUB,2016,7.18434684613918
+Curacao,CUW,2016,0.258181114051507
+Cyprus,CYP,1990,0.05
+Cyprus,CYP,2000,1.12
+Cyprus,CYP,2014,2.03
+Cyprus,CYP,2016,1.68711670729969
+Czech Republic,CZE,1990,13.05
+Czech Republic,CZE,2000,15.18
+Czech Republic,CZE,2014,21.11
+Czech Republic,CZE,2016,21.6859243630073
+Denmark,DNK,1990,10.78
+Denmark,DNK,2000,15.94
+Denmark,DNK,2014,17.95
+Denmark,DNK,2016,17.7570683242766
+Djibouti,DJI,1990,0
+Djibouti,DJI,2000,0
+Djibouti,DJI,2014,1.05
+Djibouti,DJI,2016,1.32295288625376
+Dominica,DMA,1990,0.55
+Dominica,DMA,2000,0.55
+Dominica,DMA,2014,0.55
+Dominica,DMA,2016,0.586134695785929
+Dominican Republic,DOM,1990,3.58
+Dominican Republic,DOM,2000,11.03
+Dominican Republic,DOM,2014,11.2
+Dominican Republic,DOM,2016,11.2019393392716
+Ecuador,ECU,1990,14.64
+Ecuador,ECU,2000,15.31
+Ecuador,ECU,2014,15.43
+Ecuador,ECU,2016,14.3964327518509
+"Egypt, Arab Rep.",EGY,1990,0.38
+"Egypt, Arab Rep.",EGY,2000,3.76
+"Egypt, Arab Rep.",EGY,2014,9.58
+"Egypt, Arab Rep.",EGY,2016,11.551153494537
+El Salvador,SLV,1990,0
+El Salvador,SLV,2000,0.02
+El Salvador,SLV,2014,2.05
+El Salvador,SLV,2016,2.15222717624485
+Equatorial Guinea,GNQ,1990,0.58
+Equatorial Guinea,GNQ,2000,1.64
+Equatorial Guinea,GNQ,2014,2.12
+Equatorial Guinea,GNQ,2016,1.76532601049951
+Eritrea,ERI,1990,2.96
+Eritrea,ERI,2000,2.96
+Eritrea,ERI,2014,3.06
+Eritrea,ERI,2016,4.8721871655296
+Estonia,EST,1990,0.64
+Estonia,EST,2000,3.55
+Estonia,EST,2014,19.85
+Estonia,EST,2016,19.4868332703463
+Ethiopia,ETH,1990,17.72
+Ethiopia,ETH,2000,17.72
+Ethiopia,ETH,2014,18.4
+Ethiopia,ETH,2016,18.4749520269516
+Faroe Islands,FRO,1990,0
+Faroe Islands,FRO,2000,0
+Faroe Islands,FRO,2014,0
+Faroe Islands,FRO,2016,0.0234924730862025
+Fiji,FJI,1990,0.13
+Fiji,FJI,2000,0.09
+Fiji,FJI,2014,0.97
+Fiji,FJI,2016,0.989795911368608
+Finland,FIN,1990,3.96
+Finland,FIN,2000,13.54
+Finland,FIN,2014,14.07
+Finland,FIN,2016,14.2109185358442
+France,FRA,1990,6.83
+France,FRA,2000,13.69
+France,FRA,2014,25.73
+France,FRA,2016,26.0807183526812
+French Polynesia,PYF,1990,0
+French Polynesia,PYF,2000,0
+French Polynesia,PYF,2014,0.01
+French Polynesia,PYF,2016,0.00585508371915418
+Gabon,GAB,1990,3.12
+Gabon,GAB,2000,3.75
+Gabon,GAB,2014,12.28
+Gabon,GAB,2016,12.0754505026703
+"Gambia, The",GMB,1990,0.58
+"Gambia, The",GMB,2000,1.21
+"Gambia, The",GMB,2014,1.41
+"Gambia, The",GMB,2016,1.36702543622438
+Georgia,GEO,1990,1.39
+Georgia,GEO,2000,3.04
+Georgia,GEO,2014,6.45
+Georgia,GEO,2016,6.44104820465337
+Germany,DEU,1990,19.21
+Germany,DEU,2000,27.66
+Germany,DEU,2014,38.46
+Germany,DEU,2016,38.7268950286066
+Ghana,GHA,1990,7.52
+Ghana,GHA,2000,7.79
+Ghana,GHA,2014,7.79
+Ghana,GHA,2016,7.79423860912041
+Gibraltar,GIB,2016,13.1275909719024
+Greece,GRC,1990,2.14
+Greece,GRC,2000,6.03
+Greece,GRC,2014,8.56
+Greece,GRC,2016,8.56334528515359
+Greenland,GRL,1990,22.22
+Greenland,GRL,2000,22.22
+Greenland,GRL,2014,22.38
+Greenland,GRL,2016,22.3599788850636
+Grenada,GRD,1990,0.03
+Grenada,GRD,2000,0.03
+Grenada,GRD,2014,0.05
+Grenada,GRD,2016,0.172574854343071
+Guam,GUM,1990,3.25
+Guam,GUM,2000,5.19
+Guam,GUM,2014,5.19
+Guam,GUM,2016,0.0694251938612372
+Guatemala,GTM,1990,12.5
+Guatemala,GTM,2000,14.62
+Guatemala,GTM,2014,15.72
+Guatemala,GTM,2016,15.7067397650122
+Guinea,GIN,1990,4.69
+Guinea,GIN,2000,5.16
+Guinea,GIN,2014,20.34
+Guinea,GIN,2016,21.3673260076547
+Guinea-Bissau,GNB,1990,2.39
+Guinea-Bissau,GNB,2000,10.32
+Guinea-Bissau,GNB,2014,10.38
+Guinea-Bissau,GNB,2016,11.6202197089003
+Guyana,GUY,1990,0.2
+Guyana,GUY,2000,1.27
+Guyana,GUY,2014,5.28
+Guyana,GUY,2016,5.30607683828947
+Haiti,HTI,1990,0.06
+Haiti,HTI,2000,0.06
+Haiti,HTI,2014,0.06
+Haiti,HTI,2016,0.270169622711773
+Honduras,HND,1990,4.89
+Honduras,HND,2000,7.71
+Honduras,HND,2014,7.78
+Honduras,HND,2016,12.4289336910491
+"Hong Kong SAR, China",HKG,1990,41.13
+"Hong Kong SAR, China",HKG,2000,41.84
+"Hong Kong SAR, China",HKG,2014,41.84
+"Hong Kong SAR, China",HKG,2016,41.9047619047619
+Hungary,HUN,1990,6.12
+Hungary,HUN,2000,9.45
+Hungary,HUN,2014,22.55
+Hungary,HUN,2016,22.6019271546287
+Iceland,ISL,1990,0.33
+Iceland,ISL,2000,0.67
+Iceland,ISL,2014,2.32
+Iceland,ISL,2016,2.42174669591443
+India,IND,1990,2.74
+India,IND,2000,2.95
+India,IND,2014,3.13
+India,IND,2016,3.47930598498439
+Indonesia,IDN,1990,2.62
+Indonesia,IDN,2000,3.71
+Indonesia,IDN,2014,6.01
+Indonesia,IDN,2016,5.06335901930066
+"Iran, Islamic Rep.",IRN,1990,5.12
+"Iran, Islamic Rep.",IRN,2000,5.52
+"Iran, Islamic Rep.",IRN,2014,6.69
+"Iran, Islamic Rep.",IRN,2016,7.66655342395126
+Iraq,IRQ,1990,0.05
+Iraq,IRQ,2000,0.05
+Iraq,IRQ,2014,0.38
+Iraq,IRQ,2016,1.54077890873295
+Ireland,IRL,1990,0.07
+Ireland,IRL,2000,2.01
+Ireland,IRL,2014,3.48
+Ireland,IRL,2016,4.04293371670989
+Isle of Man,IMN,2016,4.29405702507729
+Israel,ISR,1990,5.22
+Israel,ISR,2000,6.53
+Israel,ISR,2014,8.62
+Israel,ISR,2016,8.58173027677053
+Italy,ITA,1990,2.18
+Italy,ITA,2000,6.87
+Italy,ITA,2014,13.32
+Italy,ITA,2016,13.3464442429884
+Jamaica,JAM,1990,0.43
+Jamaica,JAM,2000,1.39
+Jamaica,JAM,2014,1.4
+Jamaica,JAM,2016,1.40556650931052
+Japan,JPN,1990,1.97
+Japan,JPN,2000,2.02
+Japan,JPN,2014,2.09
+Japan,JPN,2016,2.09183621347664
+Jordan,JOR,1990,1.05
+Jordan,JOR,2000,1.9
+Jordan,JOR,2014,2.13
+Jordan,JOR,2016,1.76535777731989
+Kazakhstan,KAZ,1990,2.41
+Kazakhstan,KAZ,2000,2.52
+Kazakhstan,KAZ,2014,3.29
+Kazakhstan,KAZ,2016,3.18942507887438
+Kenya,KEN,1990,9.67
+Kenya,KEN,2000,10.04
+Kenya,KEN,2014,10.57
+Kenya,KEN,2016,10.5050213796236
+Kiribati,KIR,1990,0.01
+Kiribati,KIR,2000,0.02
+Kiribati,KIR,2014,11.81
+Kiribati,KIR,2016,11.8173045605077
+"Korea, Dem. People’s Rep.",PRK,1990,1.2
+"Korea, Dem. People’s Rep.",PRK,2000,1.27
+"Korea, Dem. People’s Rep.",PRK,2014,1.3
+"Korea, Dem. People’s Rep.",PRK,2016,1.26053207722418
+"Korea, Rep.",KOR,1990,1.85
+"Korea, Rep.",KOR,2000,1.87
+"Korea, Rep.",KOR,2014,2.61
+"Korea, Rep.",KOR,2016,3.88526952835922
+Kuwait,KWT,1990,1.18
+Kuwait,KWT,2000,1.18
+Kuwait,KWT,2014,10.97
+Kuwait,KWT,2016,10.9982704332786
+Kyrgyz Republic,KGZ,1990,6.28
+Kyrgyz Republic,KGZ,2000,6.85
+Kyrgyz Republic,KGZ,2014,6.94
+Kyrgyz Republic,KGZ,2016,6.51440059612817
+Lao PDR,LAO,1990,1.47
+Lao PDR,LAO,2000,16.6
+Lao PDR,LAO,2014,16.66
+Lao PDR,LAO,2016,16.6822252710073
+Latvia,LVA,1990,4.53
+Latvia,LVA,2000,10.54
+Latvia,LVA,2014,17.78
+Latvia,LVA,2016,17.5098922163384
+Lebanon,LBN,1990,0.17
+Lebanon,LBN,2000,0.8
+Lebanon,LBN,2014,0.93
+Lebanon,LBN,2016,1.04234132124352
+Lesotho,LSO,1990,0.5
+Lesotho,LSO,2000,0.53
+Lesotho,LSO,2014,0.54
+Lesotho,LSO,2016,0.259058862108542
+Liberia,LBR,1990,0.46
+Liberia,LBR,2000,0.46
+Liberia,LBR,2014,0.78
+Liberia,LBR,2016,0.773224088935579
+Libya,LBY,1990,0.08
+Libya,LBY,2000,0.29
+Libya,LBY,2014,0.32
+Libya,LBY,2016,0.288612427087619
+Liechtenstein,LIE,1990,40.23
+Liechtenstein,LIE,2000,43.82
+Liechtenstein,LIE,2014,44.29
+Liechtenstein,LIE,2016,42.4895272292041
+Lithuania,LTU,1990,1.82
+Lithuania,LTU,2000,10.92
+Lithuania,LTU,2014,16.3
+Lithuania,LTU,2016,17.33919590185
+Luxembourg,LUX,1990,12.06
+Luxembourg,LUX,2000,29.32
+Luxembourg,LUX,2014,34.61
+Luxembourg,LUX,2016,32.2692174714763
+"Macao SAR, China",MAC,1990,0
+"Macao SAR, China",MAC,2000,0
+"Macao SAR, China",MAC,2014,0
+"Macedonia, FYR",MKD,1990,8.17
+"Macedonia, FYR",MKD,2000,9.21
+"Macedonia, FYR",MKD,2014,9.7
+"Macedonia, FYR",MKD,2016,9.65291179140907
+Madagascar,MDG,1990,0.78
+Madagascar,MDG,2000,1.02
+Madagascar,MDG,2014,1.98
+Madagascar,MDG,2016,1.97284875372353
+Malawi,MWI,1990,15.03
+Malawi,MWI,2000,16.81
+Malawi,MWI,2014,16.81
+Malawi,MWI,2016,16.8938673074221
+Malaysia,MYS,1990,7.4
+Malaysia,MYS,2000,7.92
+Malaysia,MYS,2014,8.04
+Malaysia,MYS,2016,8.91348575727549
+Maldives,MDV,1990,9.15
+Maldives,MDV,2000,0.03
+Maldives,MDV,2014,0.07
+Maldives,MDV,2016,0.0490018209813872
+Mali,MLI,1990,3.82
+Mali,MLI,2000,3.82
+Mali,MLI,2014,8.38
+Mali,MLI,2016,8.2315834186173
+Malta,MLT,1990,0.02
+Malta,MLT,2000,0.11
+Malta,MLT,2014,0.47
+Malta,MLT,2016,6.36539055401746
+Marshall Islands,MHL,1990,0
+Marshall Islands,MHL,2000,0.04
+Marshall Islands,MHL,2014,0.19
+Marshall Islands,MHL,2016,0.270441582922218
+Mauritania,MRT,1990,1.02
+Mauritania,MRT,2000,1.07
+Mauritania,MRT,2014,1.38
+Mauritania,MRT,2016,1.08074808124804
+Mauritius,MUS,1990,0
+Mauritius,MUS,2000,0.01
+Mauritius,MUS,2014,0.01
+Mauritius,MUS,2016,0.0115432840393507
+Mexico,MEX,1990,1
+Mexico,MEX,2000,3.62
+Mexico,MEX,2014,6.02
+Mexico,MEX,2016,6.75214757032193
+"Micronesia, Fed. Sts.",FSM,1990,0
+"Micronesia, Fed. Sts.",FSM,2000,0
+"Micronesia, Fed. Sts.",FSM,2014,0
+"Micronesia, Fed. Sts.",FSM,2016,0.0187205363154838
+Moldova,MDA,1990,0.95
+Moldova,MDA,2000,1.8
+Moldova,MDA,2014,3.82
+Moldova,MDA,2016,4.15147892756405
+Monaco,MCO,1990,0.18
+Monaco,MCO,2000,0.27
+Monaco,MCO,2014,99.72
+Monaco,MCO,2016,99.7200839748076
+Mongolia,MNG,1990,4.14
+Mongolia,MNG,2000,13.1
+Mongolia,MNG,2014,17.21
+Mongolia,MNG,2016,17.4032333072051
+Montenegro,MNE,1990,1.69
+Montenegro,MNE,2000,2.42
+Montenegro,MNE,2014,2.69
+Montenegro,MNE,2016,2.63765558413277
+Morocco,MAR,1990,0.09
+Morocco,MAR,2000,0.35
+Morocco,MAR,2014,20.14
+Morocco,MAR,2016,18.5463660614773
+Mozambique,MOZ,1990,7.91
+Mozambique,MOZ,2000,7.91
+Mozambique,MOZ,2014,10.9
+Mozambique,MOZ,2016,13.4487105924863
+Myanmar,MMR,1990,1.7
+Myanmar,MMR,2000,2.11
+Myanmar,MMR,2014,4.07
+Myanmar,MMR,2016,4.08911261867793
+Namibia,NAM,1990,6.92
+Namibia,NAM,2000,8.86
+Namibia,NAM,2014,23.23
+Namibia,NAM,2016,23.2471318730565
+Nauru,NRU,1990,0
+Nauru,NRU,2000,0
+Nauru,NRU,2014,0
+Nepal,NPL,1990,7.67
+Nepal,NPL,2000,18.57
+Nepal,NPL,2014,22.93
+Nepal,NPL,2016,23.6261039405048
+Netherlands,NLD,1990,4.5
+Netherlands,NLD,2000,11.35
+Netherlands,NLD,2014,18.06
+Netherlands,NLD,2016,17.8924581483262
+New Caledonia,NCL,1990,0.13
+New Caledonia,NCL,2000,0.22
+New Caledonia,NCL,2014,91.03
+New Caledonia,NCL,2016,95.7641579007986
+New Zealand,NZL,1990,7.82
+New Zealand,NZL,2000,2.27
+New Zealand,NZL,2014,29.82
+New Zealand,NZL,2016,30.4786887810956
+Nicaragua,NIC,1990,7
+Nicaragua,NIC,2000,18.68
+Nicaragua,NIC,2014,21.96
+Nicaragua,NIC,2016,15.4797788522118
+Niger,NER,1990,7.74
+Niger,NER,2000,7.74
+Niger,NER,2014,17.61
+Niger,NER,2016,17.3171351250111
+Nigeria,NGA,1990,9.64
+Nigeria,NGA,2000,10.76
+Nigeria,NGA,2014,11.82
+Nigeria,NGA,2016,11.6107349579734
+Northern Mariana Islands,MNP,1990,0
+Northern Mariana Islands,MNP,2000,0
+Northern Mariana Islands,MNP,2014,26.34
+Northern Mariana Islands,MNP,2016,33.2114779574643
+Norway,NOR,1990,6.46
+Norway,NOR,2000,6.81
+Norway,NOR,2014,9.08
+Norway,NOR,2016,4.96242625971203
+Oman,OMN,1990,0
+Oman,OMN,2000,3.99
+Oman,OMN,2014,3.99
+Oman,OMN,2016,1.0183041615309
+Pakistan,PAK,1990,7.99
+Pakistan,PAK,2000,8.02
+Pakistan,PAK,2014,8.6
+Pakistan,PAK,2016,9.7949078821214
+Palau,PLW,1990,0
+Palau,PLW,2000,0.15
+Palau,PLW,2014,0.24
+Palau,PLW,2016,82.9399513943563
+Panama,PAN,1990,4.05
+Panama,PAN,2000,4.37
+Panama,PAN,2014,5.18
+Panama,PAN,2016,5.23495043629487
+Papua New Guinea,PNG,1990,0.46
+Papua New Guinea,PNG,2000,0.65
+Papua New Guinea,PNG,2014,0.66
+Papua New Guinea,PNG,2016,0.657996414830911
+Paraguay,PRY,1990,2.91
+Paraguay,PRY,2000,5.08
+Paraguay,PRY,2014,6.5
+Paraguay,PRY,2016,6.5103621832615
+Peru,PER,1990,3.02
+Peru,PER,2000,4.58
+Peru,PER,2014,19.37
+Peru,PER,2016,13.1137339130108
+Philippines,PHL,1990,1.32
+Philippines,PHL,2000,2.4
+Philippines,PHL,2014,2.44
+Philippines,PHL,2016,3.14138638190187
+Poland,POL,1990,10.12
+Poland,POL,2000,17.54
+Poland,POL,2014,29.31
+Poland,POL,2016,38.0371484381702
+Portugal,PRT,1990,0.58
+Portugal,PRT,2000,1.26
+Portugal,PRT,2014,1.89
+Portugal,PRT,2016,9.09757449950512
+Puerto Rico,PRI,1990,0.56
+Puerto Rico,PRI,2000,0.59
+Puerto Rico,PRI,2014,0.59
+Puerto Rico,PRI,2016,2.02425214978926
+Qatar,QAT,1990,0.46
+Qatar,QAT,2000,0.73
+Qatar,QAT,2014,1.24
+Qatar,QAT,2016,0.778383955157715
+Romania,ROU,1990,2.5
+Romania,ROU,2000,5.19
+Romania,ROU,2014,22.09
+Romania,ROU,2016,22.5799678343345
+Russian Federation,RUS,1990,3.59
+Russian Federation,RUS,2000,8.36
+Russian Federation,RUS,2014,8.75
+Russian Federation,RUS,2016,7.61117652631545
+Rwanda,RWA,1990,8.78
+Rwanda,RWA,2000,8.78
+Rwanda,RWA,2014,9.43
+Rwanda,RWA,2016,9.11516142086508
+Samoa,WSM,1990,0.09
+Samoa,WSM,2000,0.21
+Samoa,WSM,2014,0.23
+Samoa,WSM,2016,0.228551141091498
+San Marino,SMR,1990,0
+San Marino,SMR,2000,0
+San Marino,SMR,2014,0
+Sao Tome and Principe,STP,1990,0
+Sao Tome and Principe,STP,2000,0
+Sao Tome and Principe,STP,2014,0
+Sao Tome and Principe,STP,2016,0.244162518792601
+Saudi Arabia,SAU,1990,6.83
+Saudi Arabia,SAU,2000,28.24
+Saudi Arabia,SAU,2014,28.24
+Saudi Arabia,SAU,2016,4.04094603755622
+Senegal,SEN,1990,14.24
+Senegal,SEN,2000,14.24
+Senegal,SEN,2014,14.48
+Senegal,SEN,2016,14.4899514635033
+Serbia,SRB,1990,3.7
+Serbia,SRB,2000,5.21
+Serbia,SRB,2014,6.76
+Serbia,SRB,2016,6.14965014896773
+Seychelles,SYC,1990,0.04
+Seychelles,SYC,2000,0.04
+Seychelles,SYC,2014,0.05
+Seychelles,SYC,2016,0.0513670647204141
+Sierra Leone,SLE,1990,0.86
+Sierra Leone,SLE,2000,2.61
+Sierra Leone,SLE,2014,3.77
+Sierra Leone,SLE,2016,3.29728394383981
+Singapore,SGP,1990,2.52
+Singapore,SGP,2000,3.28
+Singapore,SGP,2014,3.39
+Singapore,SGP,2016,2.48665252687779
+Sint Maarten (Dutch part),SXM,2016,5.0561797752809
+Slovak Republic,SVK,1990,14.83
+Slovak Republic,SVK,2000,19.48
+Slovak Republic,SVK,2014,36.63
+Slovak Republic,SVK,2016,37.283515729079
+Slovenia,SVN,1990,7.19
+Slovenia,SVN,2000,8.61
+Slovenia,SVN,2014,53.95
+Slovenia,SVN,2016,55.0920233425064
+Solomon Islands,SLB,1990,0
+Solomon Islands,SLB,2000,0.08
+Solomon Islands,SLB,2014,0.16
+Solomon Islands,SLB,2016,0.15528252541981
+Somalia,SOM,1990,0.25
+Somalia,SOM,2000,0.25
+Somalia,SOM,2014,0.26
+Somalia,SOM,2016,0.827283619408155
+South Africa,ZAF,1990,2.58
+South Africa,ZAF,2000,3.03
+South Africa,ZAF,2014,10.24
+South Africa,ZAF,2016,12.9850092764781
+South Sudan,SSD,1990,12.83
+South Sudan,SSD,2000,12.83
+South Sudan,SSD,2014,20.8
+South Sudan,SSD,2016,15.5015818826495
+Spain,ESP,1990,2.77
+Spain,ESP,2000,8.56
+Spain,ESP,2014,10.18
+Spain,ESP,2016,15.1956326397025
+Sri Lanka,LKA,1990,2.26
+Sri Lanka,LKA,2000,2.44
+Sri Lanka,LKA,2014,2.64
+Sri Lanka,LKA,2016,3.37879848480939
+St. Kitts and Nevis,KNA,1990,0.26
+St. Kitts and Nevis,KNA,2000,0.26
+St. Kitts and Nevis,KNA,2014,0.26
+St. Kitts and Nevis,KNA,2016,0.246826850964049
+St. Lucia,LCA,1990,0.56
+St. Lucia,LCA,2000,0.56
+St. Lucia,LCA,2014,0.69
+St. Lucia,LCA,2016,0.93310098500859
+St. Martin (French part),MAF,2016,92.3513250022157
+St. Vincent and the Grenadines,VCT,1990,0.44
+St. Vincent and the Grenadines,VCT,2000,0.46
+St. Vincent and the Grenadines,VCT,2014,0.46
+St. Vincent and the Grenadines,VCT,2016,0.465862061493792
+Sudan,SDN,1990,1.28
+Sudan,SDN,2000,1.28
+Sudan,SDN,2014,1.68
+Sudan,SDN,2016,2.75330083929237
+Suriname,SUR,1990,2.58
+Suriname,SUR,2000,8.49
+Suriname,SUR,2014,8.58
+Suriname,SUR,2016,8.48321297296984
+Swaziland,SWZ,1990,3.98
+Swaziland,SWZ,2000,4.02
+Swaziland,SWZ,2014,4.02
+Swaziland,SWZ,2016,4.095547390098
+Sweden,SWE,1990,5.23
+Sweden,SWE,2000,11.13
+Sweden,SWE,2014,13.03
+Sweden,SWE,2016,12.8652828471003
+Switzerland,CHE,1990,0.7
+Switzerland,CHE,2000,5.21
+Switzerland,CHE,2014,9.93
+Switzerland,CHE,2016,9.65051637879546
+Syrian Arab Republic,SYR,1990,0.24
+Syrian Arab Republic,SYR,2000,0.37
+Syrian Arab Republic,SYR,2014,0.67
+Syrian Arab Republic,SYR,2016,0.66292384624593
+Tajikistan,TJK,1990,2.61
+Tajikistan,TJK,2000,18.49
+Tajikistan,TJK,2014,21.92
+Tajikistan,TJK,2016,22.278588511869
+Tanzania,TZA,1990,21.6
+Tanzania,TZA,2000,22.82
+Tanzania,TZA,2014,26.05
+Tanzania,TZA,2016,30.8434525614166
+Thailand,THA,1990,8.01
+Thailand,THA,2000,11.12
+Thailand,THA,2014,12.49
+Thailand,THA,2016,12.5097447231165
+Timor-Leste,TLS,1990,0
+Timor-Leste,TLS,2000,0.57
+Timor-Leste,TLS,2014,2.09
+Timor-Leste,TLS,2016,4.42200884053989
+Togo,TGO,1990,8.75
+Togo,TGO,2000,8.98
+Togo,TGO,2014,19.75
+Togo,TGO,2016,21.7913330548002
+Tonga,TON,1990,0.01
+Tonga,TON,2000,1.51
+Tonga,TON,2014,1.52
+Tonga,TON,2016,1.52163261595664
+Trinidad and Tobago,TTO,1990,1.95
+Trinidad and Tobago,TTO,2000,2.54
+Trinidad and Tobago,TTO,2014,2.63
+Trinidad and Tobago,TTO,2016,2.01452631474999
+Tunisia,TUN,1990,0.93
+Tunisia,TUN,2000,0.97
+Tunisia,TUN,2014,3.68
+Tunisia,TUN,2016,5.20860952560716
+Turkey,TUR,1990,0.01
+Turkey,TUR,2000,0.17
+Turkey,TUR,2014,0.2
+Turkey,TUR,2016,0.190624822703985
+Turkmenistan,TKM,1990,2.99
+Turkmenistan,TKM,2000,2.99
+Turkmenistan,TKM,2014,3.15
+Turkmenistan,TKM,2016,3.21223105882721
+Turks and Caicos Islands,TCA,1990,2.82
+Turks and Caicos Islands,TCA,2000,3.58
+Turks and Caicos Islands,TCA,2014,3.58
+Turks and Caicos Islands,TCA,2016,0.387735700796855
+Tuvalu,TUV,1990,0
+Tuvalu,TUV,2000,0.01
+Tuvalu,TUV,2014,0.01
+Tuvalu,TUV,2016,0.00860724172331735
+Uganda,UGA,1990,12.27
+Uganda,UGA,2000,12.95
+Uganda,UGA,2014,16
+Uganda,UGA,2016,16.0640835978875
+Ukraine,UKR,1990,1.96
+Ukraine,UKR,2000,3.88
+Ukraine,UKR,2014,3.93
+Ukraine,UKR,2016,3.86287620859695
+United Arab Emirates,ARE,1990,7.24
+United Arab Emirates,ARE,2000,7.27
+United Arab Emirates,ARE,2014,16.09
+United Arab Emirates,ARE,2016,9.23566752233697
+United Kingdom,GBR,1990,6.07
+United Kingdom,GBR,2000,7.68
+United Kingdom,GBR,2014,13.77
+United Kingdom,GBR,2016,22.2620645199521
+United States,USA,1990,10.45
+United States,USA,2000,11.86
+United States,USA,2014,14.82
+United States,USA,2016,26.326199718432
+Uruguay,URY,1990,1.27
+Uruguay,URY,2000,1.27
+Uruguay,URY,2014,1.67
+Uruguay,URY,2016,2.32500934184476
+Uzbekistan,UZB,1990,2.12
+Uzbekistan,UZB,2000,2.26
+Uzbekistan,UZB,2014,3.44
+Uzbekistan,UZB,2016,3.3750589802659
+Vanuatu,VUT,1990,0.08
+Vanuatu,VUT,2000,0.09
+Vanuatu,VUT,2014,2.31
+Vanuatu,VUT,2016,0.0907589290005189
+"Venezuela, RB",VEN,1990,26.9
+"Venezuela, RB",VEN,2000,36.67
+"Venezuela, RB",VEN,2014,36.69
+"Venezuela, RB",VEN,2016,36.9025423875064
+Vietnam,VNM,1990,1.58
+Vietnam,VNM,2000,2.12
+Vietnam,VNM,2014,2.54
+Vietnam,VNM,2016,2.92944743522906
+Virgin Islands (U.S.),VIR,1990,2.42
+Virgin Islands (U.S.),VIR,2000,2.81
+Virgin Islands (U.S.),VIR,2014,2.81
+Virgin Islands (U.S.),VIR,2016,0.991597515787276
+"Yemen, Rep.",YEM,1990,0
+"Yemen, Rep.",YEM,2000,0.36
+"Yemen, Rep.",YEM,2014,0.61
+"Yemen, Rep.",YEM,2016,0.605805312181478
+Zambia,ZMB,1990,36.05
+Zambia,ZMB,2000,36.06
+Zambia,ZMB,2014,37.85
+Zambia,ZMB,2016,38.0490508448198
+Zimbabwe,ZWE,1990,16.9
+Zimbabwe,ZWE,2000,16.9
+Zimbabwe,ZWE,2014,26.61
+Zimbabwe,ZWE,2016,27.2145424089062

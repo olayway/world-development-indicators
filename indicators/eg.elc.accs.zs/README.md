@@ -1,0 +1,1 @@
+Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.

@@ -1,0 +1,1 @@
+Ores and metals comprise the commodities in SITC sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals).

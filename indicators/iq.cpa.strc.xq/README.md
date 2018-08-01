@@ -1,0 +1,1 @@
+The structural policies cluster includes trade, financial sector, and business regulatory environment.

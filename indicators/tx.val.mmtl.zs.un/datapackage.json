@@ -1,0 +1,52 @@
+{
+  "title": "Ores and metals exports (% of merchandise exports)",
+  "name": "tx.val.mmtl.zs.un",
+  "worldbank": {
+    "indicator": "tx.val.mmtl.zs.un"
+  },
+  "readme": "Ores and metals comprise the commodities in SITC sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals).",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Energy & Mining ",
+    "Private Sector",
+    "Trade"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Ores and metals comprise the commodities in SITC sections 27 (crude fertilizer, minerals nes); 28 (metalliferous ores, scrap); and 68 (non-ferrous metals)."
+          }
+        ]
+      }
+    }
+  ]
+}

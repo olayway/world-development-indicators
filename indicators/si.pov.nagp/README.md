@@ -1,0 +1,1 @@
+Poverty gap at national poverty lines is the mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence.

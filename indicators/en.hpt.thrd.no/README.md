@@ -1,0 +1,1 @@
+Higher plants are native vascular plant species. Threatened species are the number of species classified by the IUCN as endangered, vulnerable, rare, indeterminate, out of danger, or insufficiently known.

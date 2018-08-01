@@ -1,0 +1,1 @@
+Cause of death refers to the share of all deaths for all ages by underlying causes. Injuries include unintentional and intentional injuries.

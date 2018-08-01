@@ -1,0 +1,52 @@
+{
+  "title": "Access to electricity (% of population)",
+  "name": "eg.elc.accs.zs",
+  "worldbank": {
+    "indicator": "eg.elc.accs.zs"
+  },
+  "readme": "Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Energy & Mining ",
+    "Climate Change",
+    "Environment "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Access to electricity is the percentage of population with access to electricity. Electrification data are collected from industry, national surveys and international sources."
+          }
+        ]
+      }
+    }
+  ]
+}

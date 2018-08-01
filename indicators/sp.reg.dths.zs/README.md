@@ -1,0 +1,1 @@
+Completeness of death registration is the estimated percentage of deaths that are registered with their cause of death information in the vital registration system of a country.

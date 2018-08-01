@@ -1,0 +1,52 @@
+{
+  "title": "Fuel exports (% of merchandise exports)",
+  "name": "tx.val.fuel.zs.un",
+  "worldbank": {
+    "indicator": "tx.val.fuel.zs.un"
+  },
+  "readme": "Fuels comprise the commodities in SITC section 3 (mineral fuels, lubricants and related materials).",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Energy & Mining ",
+    "Private Sector",
+    "Trade"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Fuels comprise the commodities in SITC section 3 (mineral fuels, lubricants and related materials)."
+          }
+        ]
+      }
+    }
+  ]
+}

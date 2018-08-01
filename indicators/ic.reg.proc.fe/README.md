@@ -1,0 +1,1 @@
+Start-up procedures are those required to start a business, including interactions to obtain necessary permits and licenses and to complete all inscriptions, verifications, and notifications to start operations. Data are for businesses with specific characteristics of ownership, size, and type of production.

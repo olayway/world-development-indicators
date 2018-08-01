@@ -1,0 +1,1 @@
+Infant mortality rate is the number of infants dying before reaching one year of age, per 1,000 live births in a given year.

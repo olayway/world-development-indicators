@@ -1,0 +1,52 @@
+{
+  "title": "Proportion of seats held by women in national parliaments (%)",
+  "name": "sg.gen.parl.zs",
+  "worldbank": {
+    "indicator": "sg.gen.parl.zs"
+  },
+  "readme": "Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Public Sector ",
+    "Gender",
+    "Social Development "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "title": "Short-term debt (% of total reserves)",
+  "name": "dt.dod.dstc.ir.zs",
+  "worldbank": {
+    "indicator": "dt.dod.dstc.ir.zs"
+  },
+  "readme": "Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Total reserves includes gold.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth",
+    "External Debt"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Total reserves includes gold."
+          }
+        ]
+      }
+    }
+  ]
+}

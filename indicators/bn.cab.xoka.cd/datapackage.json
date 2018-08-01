@@ -1,0 +1,51 @@
+{
+  "title": "Current account balance (BoP, current US$)",
+  "name": "bn.cab.xoka.cd",
+  "worldbank": {
+    "indicator": "bn.cab.xoka.cd"
+  },
+  "readme": "Current account balance is the sum of net exports of goods and services, net primary income, and net secondary income. Data are in current U.S. dollars.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth",
+    "External Debt"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Current account balance is the sum of net exports of goods and services, net primary income, and net secondary income. Data are in current U.S. dollars."
+          }
+        ]
+      }
+    }
+  ]
+}

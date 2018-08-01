@@ -1,0 +1,52 @@
+{
+  "title": "Adolescent fertility rate (births per 1,000 women ages 15-19)",
+  "name": "sp.ado.tfrt",
+  "worldbank": {
+    "indicator": "sp.ado.tfrt"
+  },
+  "readme": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Health ",
+    "Gender",
+    "Social Development "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Adolescent fertility rate is the number of births per 1,000 women ages 15-19."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Firms using banks to finance working capital (% of firms) ",
+  "name": "ic.frm.bkwc.zs",
+  "worldbank": {
+    "indicator": "ic.frm.bkwc.zs"
+  },
+  "readme": "Firms using banks to finance working capital are the percentage of firms using bank loans to finance working capital.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Firms using banks to finance working capital are the percentage of firms using bank loans to finance working capital."
+          }
+        ]
+      }
+    }
+  ]
+}

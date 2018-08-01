@@ -1,0 +1,50 @@
+{
+  "title": "External debt stocks, short-term (DOD, current US$)",
+  "name": "dt.dod.dstc.cd",
+  "worldbank": {
+    "indicator": "dt.dod.dstc.cd"
+  },
+  "readme": "Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "External Debt"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars."
+          }
+        ]
+      }
+    }
+  ]
+}

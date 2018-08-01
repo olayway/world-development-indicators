@@ -1,0 +1,1 @@
+IBRD loans and IDA credits are public and publicly guaranteed debt extended by the World Bank Group. The International Bank for Reconstruction and Development (IBRD) lends at market rates. Credits from the International Development Association (IDA) are at concessional rates. Data are in current U.S. dollars.

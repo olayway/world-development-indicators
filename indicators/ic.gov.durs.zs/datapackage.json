@@ -1,0 +1,50 @@
+{
+  "title": "Time spent dealing with the requirements of government regulations (% of senior management time)",
+  "name": "ic.gov.durs.zs",
+  "worldbank": {
+    "indicator": "ic.gov.durs.zs"
+  },
+  "readme": "Time spent dealing with the requirements of government regulations is the proportion of senior managements time, in a typical week, that is spent dealing with the requirements imposed by government regulations (e.g., taxes, customs, labor regulations, licensing and registration, including dealings with officials, and completing forms).",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Time spent dealing with the requirements of government regulations is the proportion of senior managements time, in a typical week, that is spent dealing with the requirements imposed by government regulations (e.g., taxes, customs, labor regulations, licensing and registration, including dealings with officials, and completing forms)."
+          }
+        ]
+      }
+    }
+  ]
+}

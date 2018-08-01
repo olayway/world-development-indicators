@@ -1,0 +1,262 @@
+Country Name,Country Code,Year,Value
+Arab World,ARB,2017,249
+Caribbean small states,CSS,2017,61
+Central Europe and the Baltics,CEB,2017,51
+Early-demographic dividend,EAR,2017,1394
+East Asia & Pacific,EAS,2017,930
+East Asia & Pacific (excluding high income),EAP,2017,736
+East Asia & Pacific (IDA & IBRD countries),TEA,2017,729
+Euro area,EMU,2017,100
+Europe & Central Asia,ECS,2017,355
+Europe & Central Asia (excluding high income),ECA,2017,198
+Europe & Central Asia (IDA & IBRD countries),TEC,2017,203
+European Union,EUU,2017,145
+Fragile and conflict affected situations,FCS,2017,521
+Heavily indebted poor countries (HIPC),HPC,2017,799
+High income,HIC,2017,533
+IBRD only,IBD,2017,1612
+IDA & IBRD total,IBT,2017,2903
+IDA blend,IDB,2017,248
+IDA only,IDX,2017,1043
+IDA total,IDA,2017,1291
+Late-demographic dividend,LTE,2017,802
+Latin America & Caribbean,LCN,2017,615
+Latin America & Caribbean (excluding high income),LAC,2017,555
+Latin America & the Caribbean (IDA & IBRD countries),TLA,2017,579
+Least developed countries: UN classification,LDC,2017,949
+Low & middle income,LMY,2017,2879
+Low income,LIC,2017,648
+Lower middle income,LMC,2017,1196
+Middle East & North Africa,MEA,2017,232
+Middle East & North Africa (excluding high income),MNA,2017,170
+Middle East & North Africa (IDA & IBRD countries),TMN,2017,166
+Middle income,MIC,2017,2231
+North America,NAC,2017,54
+OECD members,OED,2017,434
+Other small states,OSS,2017,237
+Pacific island small states,PSS,2017,49
+Post-demographic dividend,PST,2017,340
+Pre-demographic dividend,PRE,2017,803
+Small states,SST,2017,347
+South Asia,SAS,2017,255
+South Asia (IDA & IBRD),TSA,2017,255
+Sub-Saharan Africa,SSF,2017,971
+Sub-Saharan Africa (excluding high income),SSA,2017,965
+Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,971
+Upper middle income,UMC,2017,1035
+World,WLD,2017,3434
+Afghanistan,AFG,2017,11
+Albania,ALB,2017,3
+Algeria,DZA,2017,14
+American Samoa,ASM,2017,1
+Andorra,AND,2017,2
+Angola,AGO,2017,18
+Antigua and Barbuda,ATG,2017,2
+Argentina,ARG,2017,37
+Armenia,ARM,2017,9
+Aruba,ABW,2017,2
+Australia,AUS,2017,63
+Austria,AUT,2017,3
+Azerbaijan,AZE,2017,8
+"Bahamas, The",BHS,2017,6
+Bahrain,BHR,2017,3
+Bangladesh,BGD,2017,37
+Barbados,BRB,2017,3
+Belarus,BLR,2017,4
+Belgium,BEL,2017,2
+Belize,BLZ,2017,9
+Benin,BEN,2017,14
+Bermuda,BMU,2017,4
+Bhutan,BTN,2017,25
+Bolivia,BOL,2017,20
+Bosnia and Herzegovina,BIH,2017,4
+Botswana,BWA,2017,11
+Brazil,BRA,2017,81
+British Virgin Islands,VGB,2017,1
+Brunei Darussalam,BRN,2017,33
+Bulgaria,BGR,2017,8
+Burkina Faso,BFA,2017,9
+Burundi,BDI,2017,14
+Cabo Verde,CPV,2017,4
+Cambodia,KHM,2017,39
+Cameroon,CMR,2017,47
+Canada,CAN,2017,14
+Cayman Islands,CYM,2017,1
+Central African Republic,CAF,2017,16
+Chad,TCD,2017,16
+Chile,CHL,2017,19
+China,CHN,2017,74
+Colombia,COL,2017,54
+Comoros,COM,2017,5
+"Congo, Dem. Rep.",COD,2017,34
+"Congo, Rep.",COG,2017,17
+Costa Rica,CRI,2017,11
+Cote d'Ivoire,CIV,2017,31
+Croatia,HRV,2017,9
+Cuba,CUB,2017,11
+Curacao,CUW,2017,3
+Cyprus,CYP,2017,6
+Czech Republic,CZE,2017,3
+Denmark,DNK,2017,2
+Djibouti,DJI,2017,10
+Dominica,DMA,2017,3
+Dominican Republic,DOM,2017,6
+Ecuador,ECU,2017,45
+"Egypt, Arab Rep.",EGY,2017,18
+El Salvador,SLV,2017,6
+Equatorial Guinea,GNQ,2017,24
+Eritrea,ERI,2017,15
+Estonia,EST,2017,1
+Ethiopia,ETH,2017,32
+Faroe Islands,FRO,2017,4
+Fiji,FJI,2017,6
+Finland,FIN,2017,2
+France,FRA,2017,9
+French Polynesia,PYF,2017,0
+Gabon,GAB,2017,20
+"Gambia, The",GMB,2017,10
+Georgia,GEO,2017,9
+Germany,DEU,2017,5
+Ghana,GHA,2017,22
+Gibraltar,GIB,2017,4
+Greece,GRC,2017,11
+Greenland,GRL,2017,9
+Grenada,GRD,2017,4
+Guam,GUM,2017,2
+Guatemala,GTM,2017,14
+Guinea,GIN,2017,29
+Guinea-Bissau,GNB,2017,14
+Guyana,GUY,2017,11
+Haiti,HTI,2017,5
+Honduras,HND,2017,7
+"Hong Kong SAR, China",HKG,2017,4
+Hungary,HUN,2017,3
+Iceland,ISL,2017,6
+India,IND,2017,94
+Indonesia,IDN,2017,191
+"Iran, Islamic Rep.",IRN,2017,19
+Iraq,IRQ,2017,15
+Ireland,IRL,2017,5
+Isle of Man,IMN,2017,1
+Israel,ISR,2017,15
+Italy,ITA,2017,8
+Jamaica,JAM,2017,6
+Japan,JPN,2017,29
+Jordan,JOR,2017,13
+Kazakhstan,KAZ,2017,16
+Kenya,KEN,2017,30
+Kiribati,KIR,2017,1
+"Korea, Dem. People’s Rep.",PRK,2017,10
+"Korea, Rep.",KOR,2017,11
+Kuwait,KWT,2017,7
+Kyrgyz Republic,KGZ,2017,5
+Lao PDR,LAO,2017,45
+Latvia,LVA,2017,1
+Lebanon,LBN,2017,10
+Lesotho,LSO,2017,4
+Liberia,LBR,2017,23
+Libya,LBY,2017,10
+Liechtenstein,LIE,2017,0
+Lithuania,LTU,2017,2
+Luxembourg,LUX,2017,0
+"Macao SAR, China",MAC,2017,0
+"Macedonia, FYR",MKD,2017,6
+Madagascar,MDG,2017,121
+Malawi,MWI,2017,10
+Malaysia,MYS,2017,72
+Maldives,MDV,2017,2
+Mali,MLI,2017,14
+Malta,MLT,2017,2
+Marshall Islands,MHL,2017,2
+Mauritania,MRT,2017,18
+Mauritius,MUS,2017,7
+Mexico,MEX,2017,93
+"Micronesia, Fed. Sts.",FSM,2017,5
+Moldova,MDA,2017,5
+Monaco,MCO,2017,3
+Mongolia,MNG,2017,11
+Montenegro,MNE,2017,6
+Morocco,MAR,2017,18
+Mozambique,MOZ,2017,17
+Myanmar,MMR,2017,49
+Namibia,NAM,2017,15
+Nauru,NRU,2017,1
+Nepal,NPL,2017,29
+Netherlands,NLD,2017,3
+New Caledonia,NCL,2017,9
+New Zealand,NZL,2017,9
+Nicaragua,NIC,2017,7
+Niger,NER,2017,13
+Nigeria,NGA,2017,32
+Northern Mariana Islands,MNP,2017,4
+Norway,NOR,2017,8
+Oman,OMN,2017,11
+Pakistan,PAK,2017,26
+Palau,PLW,2017,4
+Panama,PAN,2017,17
+Papua New Guinea,PNG,2017,40
+Paraguay,PRY,2017,10
+Peru,PER,2017,50
+Philippines,PHL,2017,39
+Poland,POL,2017,5
+Portugal,PRT,2017,13
+Puerto Rico,PRI,2017,2
+Qatar,QAT,2017,4
+Romania,ROU,2017,9
+Russian Federation,RUS,2017,34
+Rwanda,RWA,2017,24
+Samoa,WSM,2017,2
+San Marino,SMR,2017,0
+Sao Tome and Principe,STP,2017,5
+Saudi Arabia,SAU,2017,11
+Senegal,SEN,2017,19
+Serbia,SRB,2017,6
+Seychelles,SYC,2017,6
+Sierra Leone,SLE,2017,22
+Singapore,SGP,2017,14
+Sint Maarten (Dutch part),SXM,2017,2
+Slovak Republic,SVK,2017,4
+Slovenia,SVN,2017,6
+Solomon Islands,SLB,2017,18
+Somalia,SOM,2017,15
+South Africa,ZAF,2017,30
+South Sudan,SSD,2017,13
+Spain,ESP,2017,17
+Sri Lanka,LKA,2017,31
+St. Kitts and Nevis,KNA,2017,2
+St. Lucia,LCA,2017,2
+St. Martin (French part),MAF,2017,2
+St. Vincent and the Grenadines,VCT,2017,2
+Sudan,SDN,2017,15
+Suriname,SUR,2017,9
+Swaziland,SWZ,2017,9
+Sweden,SWE,2017,1
+Switzerland,CHE,2017,3
+Syrian Arab Republic,SYR,2017,14
+Tajikistan,TJK,2017,7
+Tanzania,TZA,2017,40
+Thailand,THA,2017,59
+Timor-Leste,TLS,2017,5
+Togo,TGO,2017,14
+Tonga,TON,2017,2
+Trinidad and Tobago,TTO,2017,2
+Tunisia,TUN,2017,14
+Turkey,TUR,2017,19
+Turkmenistan,TKM,2017,10
+Turks and Caicos Islands,TCA,2017,2
+Tuvalu,TUV,2017,1
+Uganda,UGA,2017,30
+Ukraine,UKR,2017,11
+United Arab Emirates,ARE,2017,9
+United Kingdom,GBR,2017,5
+United States,USA,2017,36
+Uruguay,URY,2017,10
+Uzbekistan,UZB,2017,10
+Vanuatu,VUT,2017,7
+"Venezuela, RB",VEN,2017,35
+Vietnam,VNM,2017,56
+Virgin Islands (U.S.),VIR,2017,1
+West Bank and Gaza,PSE,2017,4
+"Yemen, Rep.",YEM,2017,11
+Zambia,ZMB,2017,13
+Zimbabwe,ZWE,2017,10

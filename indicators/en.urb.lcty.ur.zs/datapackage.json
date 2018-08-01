@@ -1,0 +1,50 @@
+{
+  "title": "Population in the largest city (% of urban population)",
+  "name": "en.urb.lcty.ur.zs",
+  "worldbank": {
+    "indicator": "en.urb.lcty.ur.zs"
+  },
+  "readme": "Population in largest city is the percentage of a countrys urban population living in that countrys largest metropolitan area.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Urban Development "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Population in largest city is the percentage of a countrys urban population living in that countrys largest metropolitan area."
+          }
+        ]
+      }
+    }
+  ]
+}

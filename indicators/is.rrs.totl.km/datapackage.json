@@ -1,0 +1,50 @@
+{
+  "title": "Rail lines (total route-km)",
+  "name": "is.rrs.totl.km",
+  "worldbank": {
+    "indicator": "is.rrs.totl.km"
+  },
+  "readme": "Rail lines are the length of railway route available for train service, irrespective of the number of parallel tracks.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Infrastructure "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Rail lines are the length of railway route available for train service, irrespective of the number of parallel tracks."
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Poverty gap at national poverty lines (%)",
+  "name": "si.pov.nagp",
+  "worldbank": {
+    "indicator": "si.pov.nagp"
+  },
+  "readme": "Poverty gap at national poverty lines is the mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Poverty "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Poverty gap at national poverty lines is the mean shortfall from the poverty lines (counting the nonpoor as having zero shortfall) as a percentage of the poverty lines. This measure reflects the depth of poverty as well as its incidence."
+          }
+        ]
+      }
+    }
+  ]
+}

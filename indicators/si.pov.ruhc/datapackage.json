@@ -1,0 +1,51 @@
+{
+  "title": "Rural poverty headcount ratio at national poverty lines (% of rural population)",
+  "name": "si.pov.ruhc",
+  "worldbank": {
+    "indicator": "si.pov.ruhc"
+  },
+  "readme": "Rural poverty headcount ratio is the percentage of the rural population living below the national poverty lines.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Agriculture & Rural Development  ",
+    "Poverty "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Rural poverty headcount ratio is the percentage of the rural population living below the national poverty lines."
+          }
+        ]
+      }
+    }
+  ]
+}

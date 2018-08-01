@@ -1,0 +1,50 @@
+{
+  "title": "Trademark applications, direct nonresident",
+  "name": "ip.tmk.nres",
+  "worldbank": {
+    "indicator": "ip.tmk.nres"
+  },
+  "readme": "Trademark applications filed are applications to register a trademark with a national or regional Intellectual Property (IP) office. A trademark is a distinctive sign which identifies certain goods or services as those produced or provided by a specific person or enterprise. A trademark provides protection to the owner of the mark by ensuring the exclusive right to use it to identify goods or services, or to authorize another to use it in return for payment. The period of protection varies, but a trademark can be renewed indefinitely beyond the time limit on payment of additional fees. Direct nonresident trademark applications are those filed by applicants from abroad directly at a given national IP office.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Science & Technology "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Trademark applications filed are applications to register a trademark with a national or regional Intellectual Property (IP) office. A trademark is a distinctive sign which identifies certain goods or services as those produced or provided by a specific person or enterprise. A trademark provides protection to the owner of the mark by ensuring the exclusive right to use it to identify goods or services, or to authorize another to use it in return for payment. The period of protection varies, but a trademark can be renewed indefinitely beyond the time limit on payment of additional fees. Direct nonresident trademark applications are those filed by applicants from abroad directly at a given national IP office."
+          }
+        ]
+      }
+    }
+  ]
+}

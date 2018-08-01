@@ -1,0 +1,1 @@
+Nitrous oxide emissions are emissions from agricultural biomass burning, industrial activities, and livestock management.

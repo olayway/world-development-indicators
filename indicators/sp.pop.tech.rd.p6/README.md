@@ -1,0 +1,1 @@
+The number of technicians participated in Research & Development (R&D), expressed as per million. Technicians and equivalent staff are people who perform scientific and technical tasks involving the application of concepts and operational methods, normally under the supervision of researchers. R&D covers basic research, applied research, and experimental development.

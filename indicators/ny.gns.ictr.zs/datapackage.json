@@ -1,0 +1,50 @@
+{
+  "title": "Gross savings (% of GDP)",
+  "name": "ny.gns.ictr.zs",
+  "worldbank": {
+    "indicator": "ny.gns.ictr.zs"
+  },
+  "readme": "Gross savings are calculated as gross national income less total consumption, plus net transfers.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Economy & Growth"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Gross savings are calculated as gross national income less total consumption, plus net transfers."
+          }
+        ]
+      }
+    }
+  ]
+}

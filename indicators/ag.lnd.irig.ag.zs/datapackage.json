@@ -1,0 +1,51 @@
+{
+  "title": "Agricultural irrigated land (% of total agricultural land)",
+  "name": "ag.lnd.irig.ag.zs",
+  "worldbank": {
+    "indicator": "ag.lnd.irig.ag.zs"
+  },
+  "readme": "Agricultural irrigated land refers to agricultural areas purposely provided with water, including land irrigated by controlled flooding.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Agriculture & Rural Development  ",
+    "Climate Change"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Agricultural irrigated land refers to agricultural areas purposely provided with water, including land irrigated by controlled flooding."
+          }
+        ]
+      }
+    }
+  ]
+}

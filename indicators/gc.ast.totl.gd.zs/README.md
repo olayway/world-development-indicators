@@ -1,0 +1,1 @@
+Net acquisition of government financial assets includes domestic and foreign financial claims, SDRs, and gold bullion held by monetary authorities as a reserve asset. The net acquisition of financial assets should be offset by the net incurrence of liabilities.

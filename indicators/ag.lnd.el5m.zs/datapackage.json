@@ -1,0 +1,51 @@
+{
+  "title": "Land area where elevation is below 5 meters (% of total land area)",
+  "name": "ag.lnd.el5m.zs",
+  "worldbank": {
+    "indicator": "ag.lnd.el5m.zs"
+  },
+  "readme": "Land area below 5m is the percentage of total land where the elevation is 5 meters or less.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Climate Change",
+    "Environment "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Land area below 5m is the percentage of total land where the elevation is 5 meters or less."
+          }
+        ]
+      }
+    }
+  ]
+}

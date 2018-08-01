@@ -1,0 +1,51 @@
+{
+  "title": "Teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)",
+  "name": "sp.mtr.1519.zs",
+  "worldbank": {
+    "indicator": "sp.mtr.1519.zs"
+  },
+  "readme": "Teenage mothers are the percentage of women ages 15-19 who already have children or are currently pregnant.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Health ",
+    "Gender"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Teenage mothers are the percentage of women ages 15-19 who already have children or are currently pregnant."
+          }
+        ]
+      }
+    }
+  ]
+}

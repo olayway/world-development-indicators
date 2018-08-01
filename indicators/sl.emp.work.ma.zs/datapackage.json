@@ -1,0 +1,51 @@
+{
+  "title": "Wage and salaried workers, male (% of male employment) (modeled ILO estimate)",
+  "name": "sl.emp.work.ma.zs",
+  "worldbank": {
+    "indicator": "sl.emp.work.ma.zs"
+  },
+  "readme": "Wage and salaried workers (employees) are those workers who hold the type of jobs defined as \"paid employment jobs,\" where the incumbents hold explicit (written or oral) or implicit employment contracts that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Social Protection & Labor",
+    "Gender"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Wage and salaried workers (employees) are those workers who hold the type of jobs defined as \"paid employment jobs,\" where the incumbents hold explicit (written or oral) or implicit employment contracts that give them a basic remuneration that is not directly dependent upon the revenue of the unit for which they work."
+          }
+        ]
+      }
+    }
+  ]
+}

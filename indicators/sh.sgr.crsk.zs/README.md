@@ -1,0 +1,1 @@
+The proportion of population at risk of catastrophic expenditure when surgical care is required. Catastrophic expenditure is defined as direct out of pocket payments for surgical and anaesthesia care exceeding 10% of total income.

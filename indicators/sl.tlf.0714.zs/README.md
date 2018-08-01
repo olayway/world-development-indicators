@@ -1,0 +1,1 @@
+Children in employment refer to children involved in economic activity for at least one hour in the reference week of the survey.

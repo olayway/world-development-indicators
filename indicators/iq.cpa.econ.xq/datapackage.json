@@ -1,0 +1,50 @@
+{
+  "title": "CPIA economic management cluster average (1=low to 6=high)",
+  "name": "iq.cpa.econ.xq",
+  "worldbank": {
+    "indicator": "iq.cpa.econ.xq"
+  },
+  "readme": "The economic management cluster includes macroeconomic management, fiscal policy, and debt policy.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Public Sector "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The economic management cluster includes macroeconomic management, fiscal policy, and debt policy."
+          }
+        ]
+      }
+    }
+  ]
+}

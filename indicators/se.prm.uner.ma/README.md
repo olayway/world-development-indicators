@@ -1,0 +1,1 @@
+Children out of school are the number of primary-school-age children not enrolled in primary or secondary school.

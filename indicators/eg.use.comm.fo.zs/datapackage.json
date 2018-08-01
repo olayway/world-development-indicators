@@ -1,0 +1,50 @@
+{
+  "title": "Fossil fuel energy consumption (% of total)",
+  "name": "eg.use.comm.fo.zs",
+  "worldbank": {
+    "indicator": "eg.use.comm.fo.zs"
+  },
+  "readme": "Fossil fuel comprises coal, oil, petroleum, and natural gas products.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Energy & Mining "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Fossil fuel comprises coal, oil, petroleum, and natural gas products."
+          }
+        ]
+      }
+    }
+  ]
+}

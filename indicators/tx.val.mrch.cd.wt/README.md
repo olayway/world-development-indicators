@@ -1,0 +1,1 @@
+Merchandise exports show the f.o.b. value of goods provided to the rest of the world valued in current U.S. dollars.

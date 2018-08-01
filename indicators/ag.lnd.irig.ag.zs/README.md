@@ -1,0 +1,1 @@
+Agricultural irrigated land refers to agricultural areas purposely provided with water, including land irrigated by controlled flooding.

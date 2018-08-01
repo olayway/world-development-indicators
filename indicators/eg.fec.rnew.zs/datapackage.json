@@ -1,0 +1,52 @@
+{
+  "title": "Renewable energy consumption (% of total final energy consumption)",
+  "name": "eg.fec.rnew.zs",
+  "worldbank": {
+    "indicator": "eg.fec.rnew.zs"
+  },
+  "readme": "Renewable energy consumption is the share of renewables energy in total final energy consumption.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Energy & Mining ",
+    "Climate Change",
+    "Environment "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Renewable energy consumption is the share of renewables energy in total final energy consumption."
+          }
+        ]
+      }
+    }
+  ]
+}

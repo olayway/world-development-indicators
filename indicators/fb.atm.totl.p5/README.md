@@ -1,0 +1,1 @@
+Automated teller machines are computerized telecommunications devices that provide clients of a financial institution with access to financial transactions in a public place.

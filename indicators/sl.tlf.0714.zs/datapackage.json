@@ -1,0 +1,51 @@
+{
+  "title": "Children in employment, total (% of children ages 7-14)",
+  "name": "sl.tlf.0714.zs",
+  "worldbank": {
+    "indicator": "sl.tlf.0714.zs"
+  },
+  "readme": "Children in employment refer to children involved in economic activity for at least one hour in the reference week of the survey.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Social Protection & Labor",
+    "Social Development "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Children in employment refer to children involved in economic activity for at least one hour in the reference week of the survey."
+          }
+        ]
+      }
+    }
+  ]
+}

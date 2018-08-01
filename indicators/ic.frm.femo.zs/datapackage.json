@@ -1,0 +1,51 @@
+{
+  "title": "Firms with female participation in ownership (% of firms)",
+  "name": "ic.frm.femo.zs",
+  "worldbank": {
+    "indicator": "ic.frm.femo.zs"
+  },
+  "readme": "Firms with female participation in ownership are the percentage of firms with a woman among the principal owners.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Private Sector",
+    "Gender"
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Firms with female participation in ownership are the percentage of firms with a woman among the principal owners."
+          }
+        ]
+      }
+    }
+  ]
+}

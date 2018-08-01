@@ -1,0 +1,1 @@
+Adolescent fertility rate is the number of births per 1,000 women ages 15-19.

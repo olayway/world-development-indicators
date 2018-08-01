@@ -1,0 +1,1 @@
+Short-term external debt is defined as debt that has an original maturity of one year or less. Available data permit no distinction between public and private nonguaranteed short-term debt. Data are in current U.S. dollars.

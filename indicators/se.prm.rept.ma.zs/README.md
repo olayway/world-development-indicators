@@ -1,0 +1,1 @@
+Repeaters in primary school are the number of students enrolled in the same grade as in the previous year, as a percentage of all students enrolled in primary school.

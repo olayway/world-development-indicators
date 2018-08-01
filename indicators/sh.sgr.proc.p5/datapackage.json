@@ -1,0 +1,50 @@
+{
+  "title": "Number of surgical procedures (per 100,000 population)",
+  "name": "sh.sgr.proc.p5",
+  "worldbank": {
+    "indicator": "sh.sgr.proc.p5"
+  },
+  "readme": "The number of procedures undertaken in an operating theatre per 100,000 population per year in each country. A procedure is defined as the incision, excision, or manipulation of tissue that needs regional or general anaesthesia, or profound sedation to control pain.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Health "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "The number of procedures undertaken in an operating theatre per 100,000 population per year in each country. A procedure is defined as the incision, excision, or manipulation of tissue that needs regional or general anaesthesia, or profound sedation to control pain."
+          }
+        ]
+      }
+    }
+  ]
+}

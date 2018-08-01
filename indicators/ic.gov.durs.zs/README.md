@@ -1,0 +1,1 @@
+Time spent dealing with the requirements of government regulations is the proportion of senior managements time, in a typical week, that is spent dealing with the requirements imposed by government regulations (e.g., taxes, customs, labor regulations, licensing and registration, including dealings with officials, and completing forms).

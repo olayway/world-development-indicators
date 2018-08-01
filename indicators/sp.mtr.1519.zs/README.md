@@ -1,0 +1,1 @@
+Teenage mothers are the percentage of women ages 15-19 who already have children or are currently pregnant.

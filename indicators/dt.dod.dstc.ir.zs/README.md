@@ -1,0 +1,1 @@
+Short-term debt includes all debt having an original maturity of one year or less and interest in arrears on long-term debt. Total reserves includes gold.

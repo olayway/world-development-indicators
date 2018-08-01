@@ -1,0 +1,51 @@
+{
+  "title": "Nitrous oxide emissions (thousand metric tons of CO2 equivalent)",
+  "name": "en.atm.noxe.kt.ce",
+  "worldbank": {
+    "indicator": "en.atm.noxe.kt.ce"
+  },
+  "readme": "Nitrous oxide emissions are emissions from agricultural biomass burning, industrial activities, and livestock management.",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "Climate Change",
+    "Environment "
+  ],
+  "resources": [
+    {
+      "name": "data",
+      "title": "Indicator data",
+      "path": "data.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Country Name",
+            "type": "string",
+            "description": "Country or Region name"
+          },
+          {
+            "name": "Country Code",
+            "type": "string",
+            "description": "ISO 3-digit ISO code extended to include regional codes e.g. EUR, ARB etc"
+          },
+          {
+            "name": "Year",
+            "type": "year",
+            "description": "Year"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "description": "Nitrous oxide emissions are emissions from agricultural biomass burning, industrial activities, and livestock management."
+          }
+        ]
+      }
+    }
+  ]
+}

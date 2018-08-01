@@ -1,0 +1,1 @@
+Youth unemployment refers to the share of the labor force ages 15-24 without work but available for and seeking employment.

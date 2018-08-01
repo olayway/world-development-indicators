@@ -1,0 +1,179 @@
+Country Name,Country Code,Year,Value
+Albania,ALB,2008,7.81
+Albania,ALB,2012,7.41
+Argentina,ARG,2011,23.25
+Argentina,ARG,2016,23.26
+Armenia,ARM,2011,5.66
+Armenia,ARM,2016,7.08
+Austria,AUT,2010,56.03
+Austria,AUT,2015,55.26
+Bangladesh,BGD,2010,3.52
+Bangladesh,BGD,2016,3.86
+Belarus,BLR,2011,16.34
+Belarus,BLR,2016,19.37
+Belgium,BEL,2010,47.73
+Belgium,BEL,2015,48.89
+Benin,BEN,2011,2.71
+Benin,BEN,2015,2.71
+Bolivia,BOL,2011,12.56
+Bolivia,BOL,2016,13.24
+Bosnia and Herzegovina,BIH,2011,19.26
+Bosnia and Herzegovina,BIH,2015,18.65
+Brazil,BRA,2011,17.66
+Brazil,BRA,2015,19.25
+Bulgaria,BGR,2009,16.86
+Bulgaria,BGR,2014,18.72
+Burkina Faso,BFA,2009,2.39
+Burkina Faso,BFA,2014,2.76
+Chile,CHL,2009,15.69
+Chile,CHL,2015,21.63
+Colombia,COL,2011,13.27
+Colombia,COL,2016,14.28
+Costa Rica,CRI,2011,21.42
+Costa Rica,CRI,2016,23.59
+Cote d'Ivoire,CIV,2008,3.91
+Cote d'Ivoire,CIV,2015,3.84
+Croatia,HRV,2010,18.82
+Croatia,HRV,2015,18.22
+Cyprus,CYP,2010,50.63
+Cyprus,CYP,2015,43.38
+Czech Republic,CZE,2010,26.79
+Czech Republic,CZE,2015,28.2
+Denmark,DNK,2010,50.77
+Denmark,DNK,2015,51.93
+Dominican Republic,DOM,2011,12.54
+Dominican Republic,DOM,2016,14.92
+Ecuador,ECU,2011,12.26
+Ecuador,ECU,2016,13.49
+"Egypt, Arab Rep.",EGY,2010,5.17
+"Egypt, Arab Rep.",EGY,2012,5.25
+El Salvador,SLV,2011,8.86
+El Salvador,SLV,2016,10.23
+Estonia,EST,2010,21.07
+Estonia,EST,2015,29.04
+Ethiopia,ETH,2010,2.88
+Ethiopia,ETH,2015,3.66
+Fiji,FJI,2008,7.65
+Fiji,FJI,2013,7.34
+Finland,FIN,2010,48.95
+Finland,FIN,2015,49.36
+France,FRA,2010,52.68
+France,FRA,2015,53.23
+"Gambia, The",GMB,2010,5.05
+"Gambia, The",GMB,2015,4.93
+Georgia,GEO,2011,5.97
+Georgia,GEO,2016,7.38
+Germany,DEU,2007,53.41
+Germany,DEU,2011,52.79
+Greece,GRC,2010,31.08
+Greece,GRC,2015,21.65
+Honduras,HND,2011,9.13
+Honduras,HND,2016,8.28
+Hungary,HUN,2010,19.57
+Hungary,HUN,2015,21.33
+Iceland,ISL,2009,51.35
+Iceland,ISL,2014,46.62
+Indonesia,IDN,2011,4.84
+Indonesia,IDN,2014,5.39
+"Iran, Islamic Rep.",IRN,2009,17.41
+"Iran, Islamic Rep.",IRN,2014,16.34
+Ireland,IRL,2009,45.38
+Ireland,IRL,2014,44.86
+Italy,ITA,2009,43.18
+Italy,ITA,2014,39.23
+Jordan,JOR,2008,9.72
+Jordan,JOR,2010,10.9
+Kazakhstan,KAZ,2010,9.58
+Kazakhstan,KAZ,2015,11.36
+Kosovo,XKX,2012,8.39
+Kosovo,XKX,2015,8.79
+Kyrgyz Republic,KGZ,2011,5.3
+Kyrgyz Republic,KGZ,2016,5.29
+Latvia,LVA,2010,16.93
+Latvia,LVA,2015,23.16
+Lithuania,LTU,2010,16.79
+Lithuania,LTU,2015,24.79
+Luxembourg,LUX,2009,72.17
+Luxembourg,LUX,2014,71.16
+Madagascar,MDG,2010,1.58
+Madagascar,MDG,2012,1.54
+Malta,MLT,2009,35.25
+Malta,MLT,2014,42.21
+Mauritania,MRT,2008,5.27
+Mauritania,MRT,2014,5.74
+Mexico,MEX,2010,11.41
+Mexico,MEX,2014,11.75
+Moldova,MDA,2011,9.19
+Moldova,MDA,2016,9.37
+Mongolia,MNG,2011,8.78
+Mongolia,MNG,2016,8.77
+Montenegro,MNE,2009,16.27
+Montenegro,MNE,2014,14.51
+Mozambique,MOZ,2008,1.95
+Mozambique,MOZ,2014,2.64
+Netherlands,NLD,2010,50.25
+Netherlands,NLD,2015,52.43
+Nicaragua,NIC,2009,7.9
+Nicaragua,NIC,2014,10.83
+Norway,NOR,2010,61.31
+Norway,NOR,2015,70.92
+Pakistan,PAK,2007,3.79
+Pakistan,PAK,2013,4.42
+Panama,PAN,2011,20.4
+Panama,PAN,2016,24.7
+Paraguay,PRY,2011,15.02
+Paraguay,PRY,2016,16.3
+Peru,PER,2011,12.04
+Peru,PER,2016,13.41
+Philippines,PHL,2009,6.75
+Philippines,PHL,2015,7.33
+Poland,POL,2010,22.29
+Poland,POL,2015,24.7
+Portugal,PRT,2010,27.85
+Portugal,PRT,2015,26.84
+Romania,ROU,2010,9.71
+Romania,ROU,2015,10.27
+Russian Federation,RUS,2010,21.84
+Russian Federation,RUS,2015,22.36
+Rwanda,RWA,2010,2.75
+Rwanda,RWA,2013,2.76
+Serbia,SRB,2012,12.04
+Serbia,SRB,2015,11.72
+Slovak Republic,SVK,2010,22.95
+Slovak Republic,SVK,2015,22.25
+Slovenia,SVN,2010,34.7
+Slovenia,SVN,2015,33.74
+South Africa,ZAF,2010,11.8
+South Africa,ZAF,2014,11.11
+Spain,ESP,2010,39.51
+Spain,ESP,2015,36.58
+Sri Lanka,LKA,2012,7.51
+Sri Lanka,LKA,2016,8.99
+Sweden,SWE,2010,48.98
+Sweden,SWE,2015,53.85
+Switzerland,CHE,2009,63.44
+Switzerland,CHE,2014,66.64
+Tajikistan,TJK,2009,5.13
+Tajikistan,TJK,2015,6.34
+Thailand,THA,2009,12.87
+Thailand,THA,2013,14.77
+Togo,TGO,2011,2.63
+Togo,TGO,2015,2.71
+Turkey,TUR,2011,15.73
+Turkey,TUR,2016,18.66
+Uganda,UGA,2009,3.14
+Uganda,UGA,2012,3.32
+Ukraine,UKR,2011,11.9
+Ukraine,UKR,2016,11.5
+United Kingdom,GBR,2010,46.34
+United Kingdom,GBR,2015,46.6
+United States,USA,2010,62.47
+United States,USA,2016,68.93
+Uruguay,URY,2011,23.94
+Uruguay,URY,2016,26.13
+Vietnam,VNM,2010,7.61
+Vietnam,VNM,2014,8.34
+West Bank and Gaza,PSE,2009,10.76
+West Bank and Gaza,PSE,2011,10.84
+Zambia,ZMB,2010,2.59
+Zambia,ZMB,2015,2.99
