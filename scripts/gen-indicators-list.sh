@@ -18,6 +18,6 @@ find "$given_folder" -mindepth 1 -maxdepth 1 -type d | while read subdir; do
     dirname=$(basename "$subdir")
 
     # Append the formatted string to the output file
-    echo "* [$title]($given_folder/$dirname)" >> "$output_file"
+    echo "* [$title](https://datahub.io/core/world-development-indicators/$given_folder/$dirname)" >> "$output_file"
   fi
 done
