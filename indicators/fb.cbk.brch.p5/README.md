@@ -1,1 +1,0 @@
-Commercial bank branches are retail locations of resident commercial banks and other resident banks that function as commercial banks that provide financial services to customers and are physically separated from the main office but not organized as legally separated subsidiaries.

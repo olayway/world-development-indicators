@@ -1,1 +1,0 @@
-Pregnant women receiving prenatal care are the percentage of women attended at least once during pregnancy by skilled health personnel for reasons related to pregnancy.

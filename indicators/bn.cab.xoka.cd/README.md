@@ -1,1 +1,0 @@
-Current account balance is the sum of net exports of goods and services, net primary income, and net secondary income. Data are in current U.S. dollars.

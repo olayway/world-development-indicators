@@ -1,1 +1,0 @@
-Women in parliaments are the percentage of parliamentary seats in a single or lower chamber held by women.

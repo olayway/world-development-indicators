@@ -1,1 +1,0 @@
-Urban poverty headcount ratio is the percentage of the urban population living below the national poverty lines.

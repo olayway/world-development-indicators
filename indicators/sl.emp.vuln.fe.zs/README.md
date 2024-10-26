@@ -1,1 +1,0 @@
-Vulnerable employment is contributing family workers and own-account workers as a percentage of total employment.

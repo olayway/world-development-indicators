@@ -1,1 +1,0 @@
-Unemployment refers to the share of the labor force that is without work but available for and seeking employment.

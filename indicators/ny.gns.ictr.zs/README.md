@@ -1,1 +1,0 @@
-Gross savings are calculated as gross national income less total consumption, plus net transfers.

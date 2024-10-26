@@ -1,1 +1,0 @@
-Rural population refers to people living in rural areas as defined by national statistical offices. It is calculated as the difference between total population and urban population.

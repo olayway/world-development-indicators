@@ -1,1 +1,0 @@
-Firms using banks to finance working capital are the percentage of firms using bank loans to finance working capital.

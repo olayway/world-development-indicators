@@ -1,1 +1,0 @@
-High-technology exports are products with high R&D intensity, such as in aerospace, computers, pharmaceuticals, scientific instruments, and electrical machinery. Data are in current U.S. dollars.

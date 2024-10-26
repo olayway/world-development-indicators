@@ -1,1 +1,0 @@
-Population between the ages 0 to 14 as a percentage of the total population. Population is based on the de facto definition of population.

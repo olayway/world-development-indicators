@@ -1,1 +1,0 @@
-The number of researchers engaged in Research &Development (R&D), expressed as per million. Researchers are professionals who conduct research and improve or develop concepts, theories, models techniques instrumentation, software of operational methods. R&D covers basic research, applied research, and experimental development.

@@ -1,1 +1,0 @@
-Depth of credit information index measures rules affecting the scope, accessibility, and quality of credit information available through public or private credit registries. The index ranges from 0 to 8, with higher values indicating the availability of more credit information, from either a public registry or a private bureau, to facilitate lending decisions.

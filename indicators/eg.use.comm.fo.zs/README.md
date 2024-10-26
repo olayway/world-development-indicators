@@ -1,1 +1,0 @@
-Fossil fuel comprises coal, oil, petroleum, and natural gas products.

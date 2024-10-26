@@ -1,1 +1,0 @@
-The number of procedures undertaken in an operating theatre per 100,000 population per year in each country. A procedure is defined as the incision, excision, or manipulation of tissue that needs regional or general anaesthesia, or profound sedation to control pain.

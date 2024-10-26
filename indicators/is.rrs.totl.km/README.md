@@ -1,1 +1,0 @@
-Rail lines are the length of railway route available for train service, irrespective of the number of parallel tracks.

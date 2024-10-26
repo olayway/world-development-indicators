@@ -1,1 +1,0 @@
-Rural poverty headcount ratio is the percentage of the rural population living below the national poverty lines.

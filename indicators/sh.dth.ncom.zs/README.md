@@ -1,1 +1,0 @@
-Cause of death refers to the share of all deaths for all ages by underlying causes. Non-communicable diseases include cancer, diabetes mellitus, cardiovascular diseases, digestive diseases, skin diseases, musculoskeletal diseases, and congenital anomalies.

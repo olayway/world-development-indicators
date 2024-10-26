@@ -1,1 +1,0 @@
-Land area below 5m is the percentage of total land where the elevation is 5 meters or less.

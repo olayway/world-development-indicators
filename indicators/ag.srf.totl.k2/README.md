@@ -1,1 +1,0 @@
-Surface area is a countrys total area, including areas under inland bodies of water and some coastal waterways.

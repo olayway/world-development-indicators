@@ -1,1 +1,0 @@
-Mortality caused by road traffic injury is estimated road traffic fatal injury deaths per 100,000 population.

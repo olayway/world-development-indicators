@@ -1,1 +1,0 @@
-New businesses registered are the number of new limited liability corporations registered in the calendar year.

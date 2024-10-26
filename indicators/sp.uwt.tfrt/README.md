@@ -1,1 +1,0 @@
-Unmet need for contraception is the percentage of fertile, married women of reproductive age who do not want to become pregnant and are not using contraception.

@@ -1,1 +1,0 @@
-Prevalence of HIV refers to the percentage of people ages 15-49 who are infected with HIV.
